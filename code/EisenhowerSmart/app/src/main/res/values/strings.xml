@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">EisenhowerSmart</string>
+    <string name="cancel">Cancel</string>
+    <string name="confirm">Confirm</string>
+    <string name="placeholder_name">Name</string>
+    <string name="placeholder_description">Description</string>
+    <string name="delete">Delete</string>
+    <string name="save_updates">Save updates</string>
+    <string name="leave_page_msg">Are you sure you want to leave this page ?</string>
+    <string name="modif_notsaved_msg">Modifications will not be saved.</string>
+    <string name="no">No</string>
+    <string name="yes">Yes</string>
+    <string name="importance">Importance :</string>
+    <string name="emergency">Emergency :</string>
+    <string name="dd_mm_yyyy">dd/MM/yyyy</string>
+    <string name="deadline">Deadline :</string>
+    <string name="choose_date">Choose a date 🖋</string>
+    <string name="bin">🗑</string>
+</resources>
